@@ -1,0 +1,21 @@
+ALLSPARK BURN CLASSIFICATION REPORT
+Generated: 2025-08-12 15:44:35
+Image: /Users/hemantbotre/Burn_Project/burn_project/test_image.jpg
+Original size: (1024, 683)
+Model: exp/burn/allspark/allspark_best_model.pth
+Training accuracy: 48.95%
+
+AllSpark Classification Results:
+----------------------------------------
+Background: 65,536 pixels (100.0%)
+
+Files saved:
+- AllSpark Prediction mask: allspark_test_results/test_image_allspark_prediction_20250812_154435.png
+- AllSpark Overlay image: allspark_test_results/test_image_allspark_overlay_20250812_154435.png
+- AllSpark Report: allspark_test_results/test_image_allspark_report_20250812_154435.txt
+
+AllSpark Features Used:
+- Cross-Attention Memory
+- Semantic Memory Banks
+- Feature Enhancement
+- Semi-Supervised Learning

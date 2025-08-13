@@ -1,0 +1,16 @@
+BURN CLASSIFICATION REPORT (CORRECTED)
+Generated: 2025-08-12 21:48:41
+Image: images.jpeg
+Original size: (300, 168)
+⚠️  NOTE: Class mapping was corrected to fix inverted classifications
+
+CORRECTED Classification Results:
+----------------------------------------
+Background: 19,624 pixels (29.9%)
+Healthy Skin: 24,260 pixels (37.0%)
+Burn Areas: 21,652 pixels (33.0%)
+
+Files saved:
+- CORRECTED Prediction mask: burn_results_fixed/images_CORRECTED_prediction_20250812_214841.png
+- CORRECTED Overlay image: burn_results_fixed/images_CORRECTED_overlay_20250812_214841.png
+- CORRECTED Report: burn_results_fixed/images_CORRECTED_report_20250812_214841.txt

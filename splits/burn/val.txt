@@ -1,0 +1,15 @@
+image_total/1.png label_total/Label_1.png
+image_total/10.png label_total/Label_10.png
+image_total/20.png label_total/Label_20.png
+image_total/30.png label_total/Label_30.png
+image_total/40.png label_total/Label_40.png
+image_total/50.png label_total/Label_50.png
+image_total/60.png label_total/Label_60.png
+image_total/70.png label_total/Label_70.png
+image_total/80.png label_total/Label_80.png
+image_total/90.png label_total/Label_90.png
+image_total/100.png label_total/Label_100.png
+image_total/110.png label_total/Label_110.png
+image_total/120.png label_total/Label_120.png
+image_total/130.png label_total/Label_130.png
+image_total/140.png label_total/Label_140.png 
